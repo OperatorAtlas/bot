@@ -1,0 +1,29 @@
+{
+  "name": "rankingbot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "keywords": [],
+  "author": "nova",
+  "license": "Abstyles",
+  "readme": "README.md",
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/username/repository.git"
+}
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "noblox.js": "^4.9.0",
+    "npm": "^7.24.0"
+  }
+}
